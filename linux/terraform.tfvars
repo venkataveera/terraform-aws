@@ -1,0 +1,5 @@
+aws_region      = "us-east-1"
+aws_access_key  = "<aws access key goes here>"
+aws_secret_key  = "<aws secret key goes here>"
+key_name        = "<key name goes here>"
+public_key_path = "~/.ssh/<some_key>.pub"
